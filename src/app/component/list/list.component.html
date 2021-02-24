@@ -1,0 +1,9 @@
+<button nz-button nzType="primary" (click)="getMarker()">Create Marker</button>
+<cdk-virtual-scroll-viewport itemSize="47" class="container">
+  <nz-list>
+    <nz-list-item *cdkVirtualFor="let item of data" (click)="trigger(item)">
+      {{item.name}}
+    </nz-list-item>
+  </nz-list>
+</cdk-virtual-scroll-viewport>
+
