@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# GoogleMaps22
-=======
-# GoogleMaps1122
->>>>>>> 4c99ba8 (edit 22)
+# GoogleMaps4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
